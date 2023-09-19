@@ -1,8 +1,8 @@
 # DataSciencePortfolio
 Check here for a showcase of the data science and data analysis projects that I've done
 
-Project List
-## ML solution for solving chromatic aberration in microscopy sample
+## Project List
+### ML solution for solving chromatic aberration in microscopy sample
 Improvements in imaging technology and optical clearing have now allowed many researchers to image their samples in 3D. However, this has introduced a new problem: chromatic aberration (different wavelengths of light are shifted to different positions in the image). We investigated this phenomenon using fluorescent beads and found that even with optical lenses that claim to correct for chromatic aberration there were significant deviations along the Z-axis
 
 ![CA_Fig1](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/38524d2c-894e-41a5-a9a3-7f465d0da9f7)
