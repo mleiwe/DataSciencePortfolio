@@ -9,5 +9,7 @@ We found that across microscopes and lenses, this aberration was linear but uniq
 ![image](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/3e733129-7ea1-440c-89ed-159d07a8ce16)
 
 [Summary write up](https://google.com "Portfolio write up")
-/n [Full paper](https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full "Leiwe et al 2021")
+
+[Full paper](https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full "Leiwe et al 2021")
+
 [Repository](https://github.com/mleiwe/ChromaticAberrationCorrection "Functioning Repository")
