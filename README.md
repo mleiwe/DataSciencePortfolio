@@ -30,7 +30,7 @@ Improvements in imaging technology and optical clearing have now allowed many re
 We found that across microscopes and lenses, this aberration was linear but unique to each combination. Therefore we wrote code to allow the user to train a linear regressor on ground truth images, and then implement the correction on their images.
 ![CA_Fig5](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/c22f85cd-5c6b-489d-858c-e4ddcac89b55)
 
-[Summary write up](https://google.com "Portfolio write up")
+[Summary write up](https://github.com/mleiwe/DataSciencePortfolio/blob/main/ChromaticAberration/DataScienceFriendlyWriteUp.pages "Portfolio write up")
 
 [Full paper](https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full "Leiwe et al 2021")
 
