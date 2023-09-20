@@ -3,6 +3,7 @@ Check here for a showcase of the data science and data analysis projects that I'
 
 ## Project List
 ### dCrawler
+![dCrawler subway Example](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/acfe464d-ea26-443a-af23-c7b60b4bf561)
 Data may sometimes be clustered where
 1. We don't know the the final number of clusters (ruling out k-means)
 2. The clusters may be neighbouring each other (ruling out DBSCAN)
@@ -21,7 +22,7 @@ https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7
 
 [Full Repository](https://github.com/mleiwe/dCrawler)
 
-[Examples] ---> Coming soon
+[Examples](https://docs.google.com/presentation/d/1GiOclAU5ou5rQsCh44iIiMeyRRVG1xwc_2LyqghLLLw/edit?usp=sharing)
 
 ### ML solution for solving chromatic aberration in microscopy sample
 Improvements in imaging technology and optical clearing have now allowed many researchers to image their samples in 3D. However, this has introduced a new problem: chromatic aberration (different wavelengths of light are shifted to different positions in the image). We investigated this phenomenon using fluorescent beads and found that even with optical lenses that claim to correct for chromatic aberration there were significant deviations along the Z-axis.
