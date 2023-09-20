@@ -1,8 +1,7 @@
 # DataSciencePortfolio
 Check here for a showcase of the data science and data analysis projects that I've done
 
-## Project List
-### dCrawler
+## dCrawler
 <img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
 
 Data may sometimes be clustered where
@@ -25,7 +24,7 @@ https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7
 
 [Examples](https://docs.google.com/presentation/d/1GiOclAU5ou5rQsCh44iIiMeyRRVG1xwc_2LyqghLLLw/edit?usp=sharing)
 
-### ML solution for solving chromatic aberration in microscopy sample
+## ML solution for solving chromatic aberration in microscopy sample
 Improvements in imaging technology and optical clearing have now allowed many researchers to image their samples in 3D. However, this has introduced a new problem: chromatic aberration (different wavelengths of light are shifted to different positions in the image). We investigated this phenomenon using fluorescent beads and found that even with optical lenses that claim to correct for chromatic aberration there were significant deviations along the Z-axis.
 
 We found that across microscopes and lenses, this aberration was linear but unique to each combination. Therefore we wrote code to allow the user to train a linear regressor on ground truth images, and then implement the correction on their images.
