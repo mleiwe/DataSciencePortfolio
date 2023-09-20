@@ -2,7 +2,7 @@
 Check here for a showcase of the data science and data analysis projects that I've done
 
 ## dCrawler
-[![IMAGE ALT TEXT HERE]<img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
+[dCrawler Demonstration]<img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
 
 Data may sometimes be clustered where
 1. We don't know the the final number of clusters (ruling out k-means)
