@@ -2,7 +2,7 @@
 Check here for a showcase of the data science and data analysis projects that I've done
 
 ## dCrawler
-[dCrawler Demonstration]<img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
+<img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
 
 Data may sometimes be clustered where
 1. We don't know the the final number of clusters (ruling out k-means)
@@ -14,7 +14,7 @@ Therefore, I developed an unsupervised clustering algorithm that relies on a sin
 2. An adjustment phase, where points are allocated to their nearest cluster centroid
 3. Finally a merging of clusters whose centroids are within Th(d)
 
-https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d
+[dCrawler Demonstration]https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d
 
 [Basic Description](https://github.com/mleiwe/dCrawler/blob/main/Schema_For_dCrawler.pdf)
 
