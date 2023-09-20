@@ -14,7 +14,7 @@ Therefore, I developed an unsupervised clustering algorithm that relies on a sin
 2. An adjustment phase, where points are allocated to their nearest cluster centroid
 3. Finally a merging of clusters whose centroids are within Th(d)
 
-[dCrawler Demonstration]https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d
+[dCrawler Demonstration](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d)
 
 [Basic Description](https://github.com/mleiwe/dCrawler/blob/main/Schema_For_dCrawler.pdf)
 
