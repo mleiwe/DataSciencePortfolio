@@ -3,7 +3,8 @@ Check here for a showcase of the data science and data analysis projects that I'
 
 ## Project List
 ### dCrawler
-![dCrawler subway Example](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/acfe464d-ea26-443a-af23-c7b60b4bf561)
+<img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
+
 Data may sometimes be clustered where
 1. We don't know the the final number of clusters (ruling out k-means)
 2. The clusters may be neighbouring each other (ruling out DBSCAN)
