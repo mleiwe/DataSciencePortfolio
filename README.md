@@ -1,5 +1,6 @@
 # DataSciencePortfolio
-Check here for a showcase of the data science and data analysis projects that I've done
+Check here for a showcase of the data science and data analysis projects that I've done.
+To find out more about me check out the [pptx](https://github.com/mleiwe/DataSciencePortfolio/blob/Introduction/WhoAmI_PlusOneCaseStudy.pptx) or check out the [google slide deck](https://docs.google.com/presentation/d/1Z9ctxT7zOCgElMMbZL1SyI6LiEEJxAnz_YTPMoUKxII/edit?usp=sharing)
 
 ## dCrawler
 <img width="1255" alt="Screenshot 2023-09-20 at 10 27 12 AM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/154d7662-9406-4930-ad9a-df73f0365e53">
