@@ -11,6 +11,6 @@ We found that across microscopes and lenses, this aberration was linear but uniq
 [Repository](https://github.com/mleiwe/ChromaticAberrationCorrection "Functioning Repository")
 
 ## Cited by...
-[MacCormac et al. 2023](https://www.frontiersin.org/articles/10.3389/fnins.2023.1239764/full): Lightfield hyperspectral imaging in neuro-oncology surgery: an IDEAL 0 and 1 study
-[Loi et al. 2023](https://rupress.org/jcb/article/222/4/e202202078/213839/Semi-automated-3D-fluorescence-speckle-analyzer-3D): Semi-automated 3D fluorescence speckle analyzer (3D-Speckler) for microscope calibration and nanoscale measurement
-[Goleń et al. 2022](https://www.sciencedirect.com/science/article/abs/pii/S1434461022000311): A Model of F-actin Organization in Granuloreticulopodia in Foraminifera: Morphogenetic and Evolutionary Implications from Novel Fluorescent and Polarised Light Observations
+- [MacCormac et al. 2023](https://www.frontiersin.org/articles/10.3389/fnins.2023.1239764/full): Lightfield hyperspectral imaging in neuro-oncology surgery: an IDEAL 0 and 1 study
+- [Loi et al. 2023](https://rupress.org/jcb/article/222/4/e202202078/213839/Semi-automated-3D-fluorescence-speckle-analyzer-3D): Semi-automated 3D fluorescence speckle analyzer (3D-Speckler) for microscope calibration and nanoscale measurement
+- [Goleń et al. 2022](https://www.sciencedirect.com/science/article/abs/pii/S1434461022000311): A Model of F-actin Organization in Granuloreticulopodia in Foraminifera: Morphogenetic and Evolutionary Implications from Novel Fluorescent and Polarised Light Observations
