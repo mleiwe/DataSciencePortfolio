@@ -9,6 +9,8 @@ To find out more about me check out the [pptx](https://github.com/mleiwe/DataSci
 
 [dCrawler Demonstration](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d)
 
+- [CancerDetection](https://github.com/mleiwe/DataSciencePortfolio/tree/main/CancerDetection): As part of the ML zoomcamp training this was an exercise to get familiar with deploying a solution using docker images. In this example I used features extracted from histological samples containing malignant or benign tumours. I discovered that by reducing the features via PCA to 10 prinicipal components and utilising a logisitic regressor I could produce a model that produced an F1 score of >0.975 on the validation data set.
+
 - [Correcting Chromatic Aberration](https://github.com/mleiwe/DataSciencePortfolio/tree/main/ChromaticAberration): In biological imaging often the colours smeer (chromatic aberration) which hinders any further analysis. I noticed that we could model the aberration and so reverse its effects to produce an accurate image. This meant we could keep unaffected areas the same (e.g. E) while correcting the distorted areas (e.g. F)
 ![CA_Fig5](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/c22f85cd-5c6b-489d-858c-e4ddcac89b55)
 
