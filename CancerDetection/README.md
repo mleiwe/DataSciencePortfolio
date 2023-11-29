@@ -1,6 +1,3 @@
-# Ml-ZoomCamp_CancerMidTerm
- ML ZoomCamp midterm project. The aim is to create a ML solution to a problem of your choosing.
- 
 # Introduction
  Tumours are abnormal growths in the body. While not pleasant there are different risks associated with the different types.
 
