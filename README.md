@@ -5,7 +5,8 @@ Click on the links below to check out some of the projects that I've done
 To find out more about me check out the [pptx](https://github.com/mleiwe/DataSciencePortfolio/blob/Introduction/WhoAmI_PlusOneCaseStudy.pptx) or check out the [google slide deck](https://docs.google.com/presentation/d/1Z9ctxT7zOCgElMMbZL1SyI6LiEEJxAnz_YTPMoUKxII/edit?usp=sharing)
 
 ## Selected Projects
-- [Sea Turtle](https://github.com/mleiwe/DataSciencePortfolio/tree/main/SeaTurtles) Face recognition challenge for [FruitPunch AI](www.fruitpunch.ai/)
+- [Sea Turtle](https://github.com/mleiwe/DataSciencePortfolio/tree/main/SeaTurtles) Face recognition challenge for [FruitPunch AI](www.fruitpunch.ai/): Many sea turtle species are critically endangered and monitoring sea turtle populations is vital. However, tracking a turtle over several captures is a difficult challenge as metal tags can get damaged, and also cause distress to the turtle. By using facial recognition we came up with a solution that is more accurate and faster than manual annotation, and also minimises harm to the turtle
+![LightGlueDemoSift](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/39106829-db2d-4239-b685-0f0b9032c0f4)
 
 - [dCrawler](https://github.com/mleiwe/DataSciencePortfolio/tree/main/dCrawler): A new clustering algorithm that utilises a single distance threshold. Ideal for when you don't know how many clusters there should be but all the points should be closely related.
 
