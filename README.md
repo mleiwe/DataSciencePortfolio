@@ -13,7 +13,7 @@ Images were first passed through a YOLOv8_SAM network to isolate the relevant tu
 <img width="836" alt="Screenshot 2024-02-17 at 9 25 12 PM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/1196d834-2e31-45d8-bbd6-b8a99b040721">
 
 - [dCrawler](https://github.com/mleiwe/DataSciencePortfolio/tree/main/dCrawler): A new clustering algorithm that utilises a single distance threshold. Ideal for when you don't know how many clusters there should be but all the points should be closely related.
-![dCrawler Demonstration](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d)
+https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d
 
 dCrawler is particularly useful for clustering colors when compared to DBSCAN
 ![DBSCAN_vs_dCrawler_image](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/cddbb868-f297-4a94-af2d-465f3af6455d)
