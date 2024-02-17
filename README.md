@@ -11,6 +11,7 @@ Facial recognition challenge for [FruitPunch AI](www.fruitpunch.ai/): Many sea t
 ![LightGlueDemoSift](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/39106829-db2d-4239-b685-0f0b9032c0f4)
 
 Images were first passed through a YOLOv8_SAM network to isolate the relevant turtle pixels. Following this a variety of different models were tested to see which was the most effective. The winning solution was SIFT keypoint extraction followed by LightGlue for keypoint matching. However, instead of the basic point matching as demonstrated in the image above I devised a novel metric which compares the distribution of all the keypoints to a null distribution (average distribution of non-matching sea turtles). This difference in distributions was quantified using the Wasserstein distance. My team's solution proved to me more effective than other methods such as metric learning and LoFTR.
+
 <img width="1629" alt="Screenshot 2024-02-17 at 9 47 29 PM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/eeae1539-b7da-4f4b-a48b-cabccf6724ab">
 
 
