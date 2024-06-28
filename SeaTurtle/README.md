@@ -9,6 +9,7 @@ Briefly, we found that our implementation of LightGlue with an improved evaluati
 ## How to run the demo
 If you want to just skip ahead feel free to run the demo [locally]() if you have a good GPU or alternatively I've created a [GoogleColab notebook]()
 
+# Write Up
 ## Introduction
 
 In order to help monitor Sea Turtle populations, conservation scientists perform capture-recapture studies which allow them to track not just numbers but also the health of the sea turtle population by assessing the health of each turtle and and comparing them to occaisons when the turtle was previously captured. But how do you know which turtle is which?
