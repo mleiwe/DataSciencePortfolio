@@ -5,18 +5,14 @@ Click on the links below to check out some of the projects that I've done
 To find out more about me check out the [pptx](https://github.com/mleiwe/DataSciencePortfolio/blob/Introduction/WhoAmI_PlusOneCaseStudy.pptx) or check out the [google slide deck](https://docs.google.com/presentation/d/1Z9ctxT7zOCgElMMbZL1SyI6LiEEJxAnz_YTPMoUKxII/edit?usp=sharing)
 
 ## Selected Projects
-Four projects are described here. If you want to find out more click on the hyperlinked titles to get more detail and see the codes
-### [Sea Turtle Facial Recognition](https://github.com/mleiwe/DataSciencePortfolio/tree/main/SeaTurtle)
-Facial recognition challenge for [FruitPunch AI](www.fruitpunch.ai/): Many sea turtle species are critically endangered and monitoring sea turtle populations is vital. However, tracking a turtle over several captures is a difficult challenge as metal tags can get damaged, and also cause distress to the turtle. By using facial recognition we came up with a solution that is more accurate and faster than manual annotation, and also minimises harm to the turtle. 
+- [Sea Turtle Facial Recognition](https://github.com/mleiwe/DataSciencePortfolio/tree/main/SeaTurtles): Many sea turtle species are critically endangered and monitoring sea turtle populations is vital. However, tracking a turtle over several captures is a difficult challenge as metal tags can get damaged, and also cause distress to the turtle. By using facial recognition we came up with a solution that is more accurate and faster than manual annotation, and also minimises harm to the turtle.
 ![LightGlueDemoSift](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/39106829-db2d-4239-b685-0f0b9032c0f4)
 
-Images were first passed through a YOLOv8_SAM network to isolate the relevant turtle pixels. Following this a variety of different models were tested to see which was the most effective. The winning solution was SIFT keypoint extraction followed by LightGlue for keypoint matching. However, instead of the basic point matching as demonstrated in the image above I devised a novel metric which compares the distribution of all the keypoints to a null distribution (average distribution of non-matching sea turtles). This difference in distributions was quantified using the Wasserstein distance. My team's solution proved to me more effective than other methods such as metric learning and LoFTR.
+Images were first passed through a YOLOv8_SAM network to isolate the relevant turtle pixels. Following this a variety of different models were tested to see which was the most effective. The winning solution was SIFT keypoint extraction followed by LightGlue for keypoint matching. However, instead of the basic point matching as demonstrated in the image above I devised a novel metric which compares the distribution of all the keypoints to a null distribution (average distribution of non-matching sea turtles). This difference in distributions was quantified using the Wasserstein distance. My team's solution proved to be more effective than other methods such as metric learning and LoFTR.
 
-<img width="1629" alt="Screenshot 2024-02-17 at 9 47 29 PM" src="https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/eeae1539-b7da-4f4b-a48b-cabccf6724ab">
+![alt text](images/SeaTurtleAlgoComparison.png)
 
-
-### [dCrawler](https://github.com/mleiwe/DataSciencePortfolio/tree/main/dCrawler) 
-A new clustering algorithm that utilises a single distance threshold. Ideal for when you don't know how many clusters there should be but all the points should be closely related.
+- [dCrawler](https://github.com/mleiwe/DataSciencePortfolio/tree/main/dCrawler): A new clustering algorithm that utilises a single distance threshold. Ideal for when you don't know how many clusters there should be but all the points should be closely related.
 
 [Video Demonstration](https://github.com/mleiwe/DataSciencePortfolio/assets/29621219/de4ea1c5-5647-4c7a-a54f-5da4afb69c3d)
 
