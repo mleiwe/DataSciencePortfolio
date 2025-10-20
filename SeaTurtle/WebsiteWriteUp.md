@@ -22,7 +22,7 @@ STCB's current methodology is to capture the turtles at sea, monitor their healt
 ![Example tagging of a sea turtle](ExampleImages/sea-turtle-tag-example.png)
 *Field teams currently apply physical flipper tags and capture facial imagery during every encounter: an invasive, time-consuming step that increases stress for the animal.*
 
-Once back at the office, the staff then have to manually update their records to store any changes etc. However, the tag identification system has several issues. Firstly the markings on the tag can fade due to environmental conditions. Secondly the tag can detatch due to attacks, poor installation or other conditions.
+Once back at the office, the staff then have to manually update their records to store any changes etc. However, the tag identification system has several issues. Firstly the markings on the tag can fade due to environmental conditions. Secondly the tag can detach due to attacks, poor installation or other conditions.
 
 If a tag is missed then there is a high chance of duplications in data entry, as well as missing out on vital time-series data critical for understanding the well-being of an endangered species. Furthermore if there is a suspicion that the turtle has been captured previously staff must painstakingly search through the entire database of over 3,000 sea turtles to perform a visual comparison. This can consume a large part of the time that could be better spent on conservation work.
 
