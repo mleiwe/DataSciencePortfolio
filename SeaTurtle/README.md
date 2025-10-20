@@ -1,3 +1,5 @@
+Apologies still under construction
+
 # Facial Recognition for Sea Turtles
 This demo is just a brief aspect of the Sea Turtles challenge I did with FruitPunchAI. As part of the feature extraction team I worked in a team of 3 on developing facial recognition with LightGlue
 A [blog](https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles) post that describes the full project is also available on the FruitPunch website. If you just want to check out the implementation you can check out the [demo notebook](), or run the version available on [GoogleColab]()
@@ -16,7 +18,7 @@ In order to help monitor Sea Turtle populations, conservation scientists perform
 
 1. **Scientists can perform tagging.**
 
-    This is essentially a small (~5cm) metal tag which is attached to the flipper of the turtle when it is first captured. When it is re-captured the name can be read. But there are several drawbacks. Firstly, the process is invasive, it causes pain to the turtle and adds even more stress to a stressful environment. Secondly, these tags can become detacthed overtime. This occurs either through injury, poorly attached tags, or weather conditions, etc. The rate of this occurrence is fairly high meaning there is lots of data that is lost.
+    This is essentially a small (~5cm) metal tag which is attached to the flipper of the turtle when it is first captured. When it is re-captured the name can be read. But there are several drawbacks. Firstly, the process is invasive, it causes pain to the turtle and adds even more stress to a stressful environment. Secondly, these tags can become detached overtime. This occurs either through injury, poorly attached tags, or weather conditions, etc. The rate of this occurance is fairly high meaning there is lots of data that is lost.
        
     <img src="./ExampleImages/sea-turtle-tag-example.png" data-canonical-src="https://www.nationalband.com/sea-turtle-flipper-tags/" width="1120" height="544" />
     
@@ -32,7 +34,7 @@ In order to help monitor Sea Turtle populations, conservation scientists perform
     Image taken from https://oliveridleyproject.org/research/biogeography/sea-turtle-photo-id/#:~:text=The%20facial%20scales%20are%20unique,Brazil%20to%20Reunion%20and%20Malaysia.
 
 ## The challenge
-Our challenge at FruitPunch.ai was to help STCB by developing an automated facial recognition tool that they could use to replace both the manual comparison and the metal tagging procedure. To this end our team of 30 AI-for good volunteers were split into three teams. The facial recognition team was tasked with identifying the turtle's face, and segmenting it out to remove unnescessary information. The feature extraction team then took over, their task was to identify the key features of the image and compare these across our database of matching turtles to find the best matching turtles. Finally, the third team were tasked with building an interface that scientists with little coding experience could use effectively.
+Our challenge at FruitPunch.ai was to help STCB by developing an automated facial recognition tool that they could use to replace both the manual comparison and the metal tagging procedure. To this end our team of 30 AI-for good volunteers were split into three teams. The facial recognition team was tasked with identifying the turtle's face, and segmenting it out to remove unnecessary information. The feature extraction team then took over, their task was to identify the key features of the image and compare these across our database of matching turtles to find the best matching turtles. Finally, the third team were tasked with building an interface that scientists with little coding experience could use effectively.
 
 ![Dividing the team into 3 groups](GroupSchema.png)
 
@@ -56,7 +58,7 @@ Fig 3 LightGlue Architecture, LightGlue: Local Feature Matching at Light Speed, 
 
 LightGlue is most computationally efficient, more accurate, and easier to train. LightGlue primarily improves on the computational efficiency of LightGlue by dynamically adapting the network size depending on the current matching state. There are some minor tweaks to the Transformers that also improve the accuracy when compared to SuperGlue
 
-The key output for LightGlue are tensors of points that have a matching point in the other image. For example in the .gif below thousands of potential features are extracted in both images by SIFT and then these points are compared with LightGlue, where if the best matching point is above a certain threshold the points are considered matching. Typically the greater the number of points that match between the two images the greater the similarites between the two images.
+The key output for LightGlue are tensors of points that have a matching point in the other image. For example in the .gif below thousands of potential features are extracted in both images by SIFT and then these points are compared with LightGlue, where if the best matching point is above a certain threshold the points are considered matching. Typically the greater the number of points that match between the two images the greater the similarities between the two images.
 
 ![Facial recognition in Sea Turtles](ExampleImages/SeaTurtlesRecognition.gif)
 
