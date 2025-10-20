@@ -16,7 +16,7 @@ In order to help monitor Sea Turtle populations, conservation scientists perform
 
 1. **Scientists can perform tagging.**
 
-    This is essentially a small (~5cm) metal tag which is attached to the flipper of the turtle when it is first captured. When it is re-captured the name can be read. But there are several drawbacks. Firstly, the process is invasive, it causes pain to the turtle and adds even more stress to a stressful environment. Secondly, these tags can become detacthed overtime. This occurs either through injury, poorly attached tags, or weather conditions, etc. The rate of this occurance is fairly high meaning there is lots of data that is lost.
+    This is essentially a small (~5cm) metal tag which is attached to the flipper of the turtle when it is first captured. When it is re-captured the name can be read. But there are several drawbacks. Firstly, the process is invasive, it causes pain to the turtle and adds even more stress to a stressful environment. Secondly, these tags can become detacthed overtime. This occurs either through injury, poorly attached tags, or weather conditions, etc. The rate of this occurrence is fairly high meaning there is lots of data that is lost.
        
     <img src="./ExampleImages/sea-turtle-tag-example.png" data-canonical-src="https://www.nationalband.com/sea-turtle-flipper-tags/" width="1120" height="544" />
     
@@ -25,7 +25,7 @@ In order to help monitor Sea Turtle populations, conservation scientists perform
 
 2. **Each sea turtle has a unique scale pattern on their face, and shell.**
 
-    This is a fallback option where the scale (aka schute) patterns of the left and right sides of the face are photographed and then manually compared to a large database of >500 turtles back in the office. This is not a great solution as not only is it time consuming, it is also prone to human errors.
+    This is a fallback option where the scale (aka scute) patterns of the left and right sides of the face are photographed and then manually compared to a large database of >500 turtles back in the office. This is not a great solution as not only is it time consuming, it is also prone to human errors.
     
     <img src="./ExampleImages/Unique-facial-scales-of-turtles.jpg" data-canonical-src="https://oliveridleyproject.org/wp-content/uploads/2017/07/Unique-facial-scales-of-turtles.jpg">
 
