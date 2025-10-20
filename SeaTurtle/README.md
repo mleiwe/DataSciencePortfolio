@@ -18,7 +18,7 @@ In order to help monitor Sea Turtle populations, conservation scientists perform
 
 1. **Scientists can perform tagging.**
 
-    This is essentially a small (~5cm) metal tag which is attached to the flipper of the turtle when it is first captured. When it is re-captured the name can be read. But there are several drawbacks. Firstly, the process is invasive, it causes pain to the turtle and adds even more stress to a stressful environment. Secondly, these tags can become detacthed overtime. This occurs either through injury, poorly attached tags, or weather conditions, etc. The rate of this occurance is fairly high meaning there is lots of data that is lost.
+    This is essentially a small (~5cm) metal tag which is attached to the flipper of the turtle when it is first captured. When it is re-captured the name can be read. But there are several drawbacks. Firstly, the process is invasive, it causes pain to the turtle and adds even more stress to a stressful environment. Secondly, these tags can become detached overtime. This occurs either through injury, poorly attached tags, or weather conditions, etc. The rate of this occurance is fairly high meaning there is lots of data that is lost.
        
     <img src="./ExampleImages/sea-turtle-tag-example.png" data-canonical-src="https://www.nationalband.com/sea-turtle-flipper-tags/" width="1120" height="544" />
     
